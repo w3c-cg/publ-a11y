@@ -1,5 +1,5 @@
- {
-    "group":      [100074,"wg/pm"]
-,   "contacts":   ["iherman"]
-,   "repo-type" : "article"
+{
+	"group":      [110591,"cg"],
+	"contacts":   ["ij@w3.org"],
+	"repo-type" : "cg-report"
 }
