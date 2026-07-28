@@ -1,31 +1,18 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Display Techniques for EPUB Accessibility Metadata 2.1</title>
-		
 		<script>
-			
-			// update the following URL after publishing a new version of the guide - no other changes to this file are necessary
-			var latest_url = 'https://www.w3.org/community/reports/publishingcg/CG-FINAL-epub-techniques-20251222/';
-			
-			var full_url = latest_url + window.location.hash;
-			
-			var meta = document.createElement('meta');
-				meta.setAttribute('http-equiv', 'refresh');
-				meta.setAttribute('content', '0;url='+full_url);
-			
-			document.head.appendChild(meta);
+		    let latestVersion = "https://www.w3.org/community/reports/publishingcg/CG-FINAL-epub-techniques-20251222/";
+    		window.location = latestVersion + window.location.hash;
 		</script>
+		<title>Latest version</title>
 	</head>
 	<body>
-		<p>The latest version of the techniques is available at
-			<a id="latest-manual-link"></a>
-		</p>
+		<p>Latest version is at <a id="latestLink"></a>.</p>
 		<script>
-			var manual_link = document.getElementById('latest-manual-link');
-				manual_link.href = latest_url;
-				manual_link.innerHTML = latest_url;
+			var ll = document.getElementById('latestLink');
+				ll.href = ll.innerHTML = latestVersion;
 		</script>
 	</body>
 </html>

@@ -1,13 +1,18 @@
-<!doctype html>
-<head>
-<meta charset="utf-8">
-<script>
-    let currentHash = window.location.hash;
-    let newLocation = "https://www.w3.org/community/reports/publishingcg/CG-FINAL-audio-playback-20230314/" + currentHash;
-    window.location = newLocation;
-</script>
-<title>Moved…</title>
-</head>
-<p>Moved to
-<a href="https://www.w3.org/community/reports/publishingcg/CG-FINAL-audio-playback-20230314/">https://www.w3.org/community/reports/publishingcg/CG-FINAL-audio-playback-20230314/</a>
-</body>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<script>
+		    let latestVersion = "https://www.w3.org/community/reports/publishingcg/CG-FINAL-audio-playback-20230314/";
+    		window.location = latestVersion + window.location.hash;
+		</script>
+		<title>Latest version</title>
+	</head>
+	<body>
+		<p>Latest version is at <a id="latestLink"></a>.</p>
+		<script>
+			var ll = document.getElementById('latestLink');
+				ll.href = ll.innerHTML = latestVersion;
+		</script>
+	</body>
+</html>
