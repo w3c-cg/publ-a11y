@@ -1,6 +1,6 @@
 # Publishing Working Group
 
-This repository is being used for work in the W3C Publishing Working Group, governed by the
+This repository is managed by the [Publishing Community Group](https://www.w3.org/groups/cg/publishingcg/). Contributions are governed by the
 [W3C Community License Agreement (CLA)](https://www.w3.org/community/about/agreements/cla/).
 To make substantive contributions, you must join the CG. 
 
