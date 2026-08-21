@@ -1,2 +1,8 @@
-All documents in this Repository are licensed by contributors under the
-[W3C Software and Document License](http://www.w3.org/Consortium/Legal/copyright-software).
+Contributions to Specifications are made under the
+[W3C CLA](https://www.w3.org/community/about/agreements/cla/).
+
+Contributions to other types of Reports in this Repository are licensed by Contributors
+under the [W3C Software and Document License](https://www.w3.org/copyright/software-license/).
+
+Contributions to Test Suites are made under the
+[W3C 3-clause BSD License](https://www.w3.org/copyright/3-clause-bsd-license-2008/)
