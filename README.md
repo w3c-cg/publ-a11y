@@ -20,32 +20,32 @@ Task force meetings are announced on the Publishing Community Group's [public ma
 The Accessibility Task Force maintains the following documents in this repository:
 
 - Accessibility Metadata Display Guide for Digital Publications ([Project Page](https://github.com/w3c/publ-a11y/tree/main/metadata-display-guide/))
-  - [Editor's Draft](https://w3c.github.io/publ-a11y/metadata-display-guide/guidelines/)
+  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/metadata-display-guide/guidelines/)
   - [Latest Version](https://www.w3.org/publishing/a11y/metadata-display-guide/guidelines/)
   - EPUB Techniques
-    - [Editor's Draft](https://w3c.github.io/publ-a11y/metadata-display-guide/techniques/epub/)
+    - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/metadata-display-guide/techniques/epub/)
     - [Latest Version](https://www.w3.org/publishing/a11y/metadata-display-guide/techniques/epub/)
   - ONIX Techniques
-    - [Editor's Draft](https://w3c.github.io/publ-a11y/metadata-display-guide/techniques/onix/)
+    - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/metadata-display-guide/techniques/onix/)
     - [Latest Version](https://www.w3.org/publishing/a11y/metadata-display-guide/techniques/onix/)
 - Digital Publishing - Accessibility Metadata Crosswalk
-  - [Editor's Draft](https://w3c.github.io/publ-a11y/metadata-crosswalk/)
+  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/metadata-crosswalk/)
   - [Latest Version](https://www.w3.org/2021/a11y-discov-vocab/latest/crosswalk/)
 - Expressing Accessibility Metadata in the EPUB Package Document
-  - [Editor's Draft](https://w3c.github.io/publ-a11y/package-metadata-authoring-guide/)
+  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/package-metadata-authoring-guide/)
 - Publishing Guide to Audio Playback and Text-To-Speech
-  - [Editor's Draft](https://w3c.github.io/publ-a11y/drafts/audio-playback/)
+  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/drafts/audio-playback/)
   - [Latest Version](https://www.w3.org/publishing/a11y/audio-playback/)
 - Page Source Identification
-  - [Editor's Draft](https://w3c.github.io/publ-a11y/drafts/page-source-id/)
+  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/drafts/page-source-id/)
   - [Latest Version](https://www.w3.org/publishing/a11y/page-source-id/)
 - Accessibility Summary Authoring Guidelines for EPUB Publications
-  - [Editor's Draft](https://w3c.github.io/publ-a11y/drafts/schema-a11y-summary/)
+  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/drafts/schema-a11y-summary/)
   - [Latest Version](https://www.w3.org/publishing/a11y/schema-a11y-summary/)
 - Zero-Tolerance Accessibility Conformance Approaches for Publishing
-  - [Editor's Draft](https://w3c.github.io/publ-a11y/drafts/zero-tolerance-conformance/)
+  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/drafts/zero-tolerance-conformance/)
 
-Note: The [Accessibility Properties Crosswalk](https://w3c.github.io/a11y-discov-vocab/crosswalk/) is maintained by the [Accessibility Discoverability Vocabulary for Schema.org Community Group](https://www.w3.org/groups/cg/a11y-discov-vocab/)
+Note: The [Accessibility Properties Crosswalk](https://w3c-cg.github.io/a11y-discov-vocab/crosswalk/) is maintained by the [Accessibility Discoverability Vocabulary for Schema.org Community Group](https://www.w3.org/groups/cg/a11y-discov-vocab/)
 
 
 ## Contributing to the Repository
