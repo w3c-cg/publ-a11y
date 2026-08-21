@@ -34,16 +34,16 @@ The Accessibility Task Force maintains the following documents in this repositor
 - Expressing Accessibility Metadata in the EPUB Package Document
   - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/package-metadata-authoring-guide/)
 - Publishing Guide to Audio Playback and Text-To-Speech
-  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/drafts/audio-playback/)
+  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/audio-playback/)
   - [Latest Version](https://www.w3.org/publishing/a11y/audio-playback/)
 - Page Source Identification
-  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/drafts/page-source-id/)
+  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/page-source-id/)
   - [Latest Version](https://www.w3.org/publishing/a11y/page-source-id/)
 - Accessibility Summary Authoring Guidelines for EPUB Publications
-  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/drafts/schema-a11y-summary/)
+  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/schema-a11y-summary/)
   - [Latest Version](https://www.w3.org/publishing/a11y/schema-a11y-summary/)
 - Zero-Tolerance Accessibility Conformance Approaches for Publishing
-  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/drafts/zero-tolerance-conformance/)
+  - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/zero-tolerance-conformance/)
 
 Note: The [Accessibility Properties Crosswalk](https://w3c-cg.github.io/a11y-discov-vocab/crosswalk/) is maintained by the [Accessibility Discoverability Vocabulary for Schema.org Community Group](https://www.w3.org/groups/cg/a11y-discov-vocab/)
 
