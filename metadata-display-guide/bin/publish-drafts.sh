@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script for creating static version for the UX-Guide-Metadata documents
-# It starts from the published draft (in the main branch): https://w3c.github.io/publ-a11y/metadata-display-guide/guidelines/
+# It starts from the published draft (in the main branch): https://w3c-cg.github.io/publ-a11y/metadata-display-guide/guidelines/
 # It generates the static version
 # It runs nuchecker and link checker
 # The output is a zip folder that can be sent to W3C staff for publishing on the website
@@ -25,7 +25,7 @@ do
 	tmpdir=$(mktemp -d)
 	filename=${document##*/}
 	versionFilename="$filename-draft-note-$publishDateWithoutDashes.html"
-	versionURL="https://w3c.github.io/publ-a11y/metadata-display-guide/$document/$versionFilename"
+	versionURL="https://w3c-cg.github.io/publ-a11y/metadata-display-guide/$document/$versionFilename"
 
 	# copies the content to the temporary directory
 	printf "\nCopying the content to the temporary directory..."
@@ -37,7 +37,7 @@ do
 	curl \
 		-G \
 		--data-urlencode "type=respec" \
-		--data-urlencode "url=https://w3c.github.io/publ-a11y/metadata-display-guide/$document/?specStatus=CG-DRAFT&publishDate=$publishDate&thisVersion=$versionURL" \
+		--data-urlencode "url=https://w3c-cg.github.io/publ-a11y/metadata-display-guide/$document/?specStatus=CG-DRAFT&publishDate=$publishDate&thisVersion=$versionURL" \
 		https://www.w3.org/publications/spec-generator/ \
 		-o "$tmpdir/index.html"
 	
@@ -65,9 +65,9 @@ do
 	checklink \
 		--summary \
 		--broken \
-		"https://w3c.github.io/publ-a11y/metadata-display-guide/$document/?specStatus=CG-DRAFT&publishDate=$publishDate"
+		"https://w3c-cg.github.io/publ-a11y/metadata-display-guide/$document/?specStatus=CG-DRAFT&publishDate=$publishDate"
 	
-	# commenting while waiting for this issue to be fixed: https://github.com/w3c/publ-a11y/issues/386
+	# commenting while waiting for this issue to be fixed: https://github.com/w3c-cg/publ-a11y/issues/386
 	# if [ $? -gt 0 ] 
 	# then 
 	#	exit 1

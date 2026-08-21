@@ -13,13 +13,13 @@ To join the task force, please first become a member of the [Publishing Communit
 
 Task force meetings are announced on the Publishing Community Group's [public mailing list](https://lists.w3.org/Archives/Public/public-publishingcg/). All members of the group are welcome to join.
 
-[Minutes of the task force meetings](https://github.com/w3c/publ-a11y/wiki/Minutes-of-Publishing-CG-Accessibility-Task-Force-Meetings)
+[Minutes of the task force meetings](https://github.com/w3c-cg/publ-a11y/wiki/Minutes-of-Publishing-CG-Accessibility-Task-Force-Meetings)
 
 ## Documents
 
 The Accessibility Task Force maintains the following documents in this repository:
 
-- Accessibility Metadata Display Guide for Digital Publications ([Project Page](https://github.com/w3c/publ-a11y/tree/main/metadata-display-guide/))
+- Accessibility Metadata Display Guide for Digital Publications ([Project Page](https://github.com/w3c-cg/publ-a11y/tree/main/metadata-display-guide/))
   - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/metadata-display-guide/guidelines/)
   - [Latest Version](https://www.w3.org/publishing/a11y/metadata-display-guide/guidelines/)
   - EPUB Techniques

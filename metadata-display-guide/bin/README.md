@@ -14,7 +14,7 @@ sudo cpan install Mozilla::CA
 
 ## publish-guidelines.sh
 
-Script for creating static version for the guidelines document. It starts from the published draft (in the main branch): [https://w3c.github.io/publ-a11y/metadata-display-guide/guidelines/](https://w3c.github.io/publ-a11y/metadata-display-guide/guidelines/)
+Script for creating static version for the guidelines document. It starts from the published draft (in the main branch): [https://w3c-cg.github.io/publ-a11y/metadata-display-guide/guidelines/](https://w3c-cg.github.io/publ-a11y/metadata-display-guide/guidelines/)
 
 It generates the static version, it runs nuchecker and link checker.
 
@@ -24,8 +24,8 @@ The output is a zip folder that can be sent to W3C staff for publishing on the w
 
 Script for creating static version for the techniques documents. It starts from the published draft (in the main branch):
 
-- [https://w3c.github.io/publ-a11y/metadata-display-guide/techniques/epub/](https://w3c.github.io/publ-a11y/metadata-display-guide/techniques/epub/)
-- [https://w3c.github.io/publ-a11y/metadata-display-guide/techniques/onix/](https://w3c.github.io/publ-a11y/metadata-display-guide/techniques/onix/)
+- [https://w3c-cg.github.io/publ-a11y/metadata-display-guide/techniques/epub/](https://w3c-cg.github.io/publ-a11y/metadata-display-guide/techniques/epub/)
+- [https://w3c-cg.github.io/publ-a11y/metadata-display-guide/techniques/onix/](https://w3c-cg.github.io/publ-a11y/metadata-display-guide/techniques/onix/)
 
 It generates the static versions, it runs nuchecker and link checker.
 

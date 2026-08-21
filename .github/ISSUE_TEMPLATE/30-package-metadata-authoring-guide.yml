@@ -4,10 +4,10 @@ labels: package-metadata-guide
 body: 
   - type: markdown
     attributes:
-     value: "## Issue on the [Expressing Accessibility Metadata in the EPUB Package Document](https://w3c.github.io/publ-a11y/package-metadata-authoring-guide/)"
+     value: "## Issue on the [Expressing Accessibility Metadata in the EPUB Package Document](https://w3c-cg.github.io/publ-a11y/package-metadata-authoring-guide/)"
   - type: markdown
     attributes:
-     value: __Before opening an issue__, please check that it has not already been resolved in the [latest editor's draft](https://w3c.github.io/publ-a11y/package-metadata-authoring-guide/)
+     value: __Before opening an issue__, please check that it has not already been resolved in the [latest editor's draft](https://w3c-cg.github.io/publ-a11y/package-metadata-authoring-guide/)
   - type: input
     id: section
     attributes:
