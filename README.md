@@ -33,6 +33,7 @@ The Accessibility Task Force maintains the following documents in this repositor
   - [Latest Version](https://www.w3.org/2021/a11y-discov-vocab/latest/crosswalk/)
 - Expressing Accessibility Metadata in the EPUB Package Document
   - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/package-metadata-authoring-guide/)
+  - [Latest Version](https://w3c-cg.github.io/publ-a11y/package-metadata-authoring-guide/latest/)
 - Publishing Guide to Audio Playback and Text-To-Speech
   - [Editor's Draft](https://w3c-cg.github.io/publ-a11y/audio-playback/)
   - [Latest Version](https://www.w3.org/publishing/a11y/audio-playback/)
